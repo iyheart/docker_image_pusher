@@ -2,5 +2,8 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+roderickchan/debug_pwn_env:24.04-2.39-0ubuntu8.2-20240818
+roderickchan/debug_pwn_env:20.04-2.31-0ubuntu9.16-20240601
+roderickchan/debug_pwn_env:18.04-2.27-3ubuntu1.6-20240422
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 xiaoyaliu/alist

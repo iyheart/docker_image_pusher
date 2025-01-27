@@ -6,8 +6,8 @@ roderickchan/debug_pwn_env:20.04-2.31-0ubuntu9.16-20240601
 roderickchan/debug_pwn_env:18.04-2.27-3ubuntu1.6-20240422
 roderickchan/debug_pwn_env:16.04-2.23-0ubuntu11.3-20240412
 sagemath/sagemath:10.2
-mcc0624/cmd:latest
 ctfd/ctfd
+mcc0624/cmd:latest
 
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist

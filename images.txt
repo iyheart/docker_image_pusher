@@ -8,6 +8,7 @@ roderickchan/debug_pwn_env:16.04-2.23-0ubuntu11.3-20240412
 sagemath/sagemath:10.2
 ctfd/ctfd
 mcc0624/cmd:latest
+ubuntu:16.04
 
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist

@@ -9,6 +9,7 @@ sagemath/sagemath:10.2
 ctfd/ctfd
 mcc0624/cmd:latest
 ubuntu:16.04
+iyheart/my_ctf:latest
 
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
